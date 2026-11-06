@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-media-url-transcriber": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-media-url-transcriber"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
