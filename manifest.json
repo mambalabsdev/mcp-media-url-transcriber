@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-media-url-transcriber",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Media URL Transcriber. Transcribe direct audio and video file links on your own speech to text key. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs"
